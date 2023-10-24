@@ -69,4 +69,4 @@ GNU Linux v6.0 or up (x86 or arm)
 
 Copyright (c) Ignisus Corporation. All rights reserved.
 
-Licensed under the [GPL-3.0](LICENSE) license.
+Licensed under the [CC0-1.0](LICENSE) license.
